@@ -93,7 +93,7 @@ sudo docker run -it --rm --net=host --privileged rahulkrishnatp/cyberdna:latest
 Clone the repository:
 
 ```bash
-git clone https://github.com/Rahulkris488/CyberDNA_complete.git
+git clone https://github.com/Rahulkris488/CyberDNA_.git
 cd CyberDNA_complete
 ```
 
